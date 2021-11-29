@@ -1,2 +1,2 @@
 # pytorch_LeNet5
-a simpel demo
+纹理特征和色彩特征融合做图像识别
